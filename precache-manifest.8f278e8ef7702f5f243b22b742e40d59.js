@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8c73f9528dade6efaf714aa2f94969f",
+    "revision": "ef79ab00412adbf75c22bca201513492",
     "url": "/FullMe7alJacke7.github.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FullMe7alJacke7.github.io/static/css/4.01c87591.chunk.css"
   },
   {
-    "revision": "22ec1daea66a69abcbbd",
+    "revision": "0bbc55cc2a56e758fbd8",
     "url": "/FullMe7alJacke7.github.io/static/css/main.fee9f4bb.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FullMe7alJacke7.github.io/static/js/4.fbe81db0.chunk.js"
   },
   {
-    "revision": "22ec1daea66a69abcbbd",
-    "url": "/FullMe7alJacke7.github.io/static/js/main.af5b1f85.chunk.js"
+    "revision": "0bbc55cc2a56e758fbd8",
+    "url": "/FullMe7alJacke7.github.io/static/js/main.e0fa4f07.chunk.js"
   },
   {
     "revision": "c992840416ed832ddae3",
